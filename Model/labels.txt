@@ -1,0 +1,7 @@
+0 A
+1 B
+2 food
+3 goodbye
+4 pick
+5 thankyou
+6 where
