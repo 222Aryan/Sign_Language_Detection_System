@@ -1,1 +1,1 @@
-# Sign_Language_Detection_Sysyem
+# Sign_Language_Detection_System
